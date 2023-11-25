@@ -24,4 +24,4 @@ function heroRank(heroName, heroExp) {
   return `O Herói de nome ${name} está no nível ${rank}`;
 }
 
-console.log(heroRank("Seki, o Viúvo"));
+console.log(heroRank("Seki, o Viúvo"), 900);
